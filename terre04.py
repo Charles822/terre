@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# Display if an integrer is odd or even
 import sys # we use this module to access our argument
 
 
