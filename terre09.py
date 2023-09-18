@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
-
+# # compute the square root of a number without using the built in function
 import sys # we use this module to access our argument, the 2nd item of the 
-from math import sqrt
 from math import floor
 
 argument = sys.argv
