@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# display th alpahabet from my letter
 import string # we use this module to import the alphabet letters
 import sys # we use this module to access the arguments 
 
