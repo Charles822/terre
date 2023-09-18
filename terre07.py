@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# length of a string
 import sys # we use this module to access our argument, the 2nd item of the list
 
 
