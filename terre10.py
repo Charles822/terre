@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# Prime number or not
 import sys # we use this module to access our argument, the 2nd item of the 
 
 argument = sys.argv
