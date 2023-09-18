@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# print the alphabet in lowcaps
 
 import string # we use this module to import the alphabet letters, our input
 
