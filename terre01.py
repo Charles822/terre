@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# print program name
 filepath = __file__
 
 # isolate filename from the filepath
