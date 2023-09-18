@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# Display the result and rest of a division
 import sys # we use this module to access our argument
 from math import floor
 
