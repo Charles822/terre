@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # 24H to 12H format converter
-import sys # we use this module to access our argument, the 2nd item of the 
+import sys # we use this module to access our argument
 
 argument = sys.argv
 
