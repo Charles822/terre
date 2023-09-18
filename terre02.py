@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# Display arguments line by line
 import sys # we use this module to access the arguments 
 
 arg_list = sys.argv
