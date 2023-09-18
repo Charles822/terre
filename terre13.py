@@ -2,7 +2,7 @@
 
 import sys # we use this module to access our argument
 
-# find Switzerland
+# find Switzerland (the middle value in a series of 3 numbers)
 
 argument = sys.argv
 
