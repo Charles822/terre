@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
-
+# check if numbers are in the right order without using the sort function
 import sys 
-
-
-
-# triés ou pas
 
 my_numbers = sys.argv[1:]
 
