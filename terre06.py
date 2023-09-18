@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# Reverse a string
 import sys # we use this module to access our argument
 
 def too_many_arg(): # check if there is a 3rd element in the argument list
